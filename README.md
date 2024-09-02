@@ -60,4 +60,4 @@ To use the Gemini Prompt Expander, you need to set up your Gemini API key. You c
 
 ### Customizing Magic Photo Prompter Options
 
-You can modify the options available in the Magic Photo Prompter by editing the `magic_options.json` file located in the same directory as the node scripts.
+You can modify the options available and add more in the Magic Photo Prompter by editing the `magic_options.json` file located in the same directory as the node scripts.
