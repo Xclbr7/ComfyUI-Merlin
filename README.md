@@ -29,7 +29,7 @@ ComfyUI-Merlin is a custom node extension for ComfyUI, introducing two powerful 
 ## Installation
 
 1. Clone this repository into your ComfyUI `custom_nodes` folder:
-   git clone https://github.com/your-repo/ComfyUI-Merlin.git
+   git clone https://github.com/Xclbr7/ComfyUI-Merlin.git
 2. Restart ComfyUI.
 
 ## Usage
